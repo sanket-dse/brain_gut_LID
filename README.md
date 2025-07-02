@@ -1,5 +1,5 @@
 # Introduction : 
-This repository is for a project where we recorded simultaneous EEG (19 channel) and EGG (4 channel) to analyze brain gut coupling in Parkinson's patients with dyskinesia and \\
+This repository is for a project where we recorded simultaneous EEG (19 channel) and EGG (4 channel) to analyze brain gut coupling in Parkinson's patients with dyskinesia and 
 age matched healthy controls. We build models to predict dyskinesia severity and classify patients from healthy people using brain gut coupling features.
 # Packages required : 
 1. EEGLAB
